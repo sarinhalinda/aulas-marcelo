@@ -1,0 +1,65 @@
+body{
+    background-color: #48CCFC;
+}
+
+#barbie{
+    width: 350px;
+    transform: rotate(15deg);
+}
+
+#formulario{
+    background-color: #2D84A5;
+    width: 290px;
+    border: #2D84A5;
+    left: 30;
+}
+
+#logar{
+    background-color: #3BCC75;
+    border: #3BCC75;
+    width: 280px;
+    color: aliceblue;
+    height: 30px;
+}
+
+input{
+    width: 273px;
+    height: 30px;
+    margin-top: 9px;
+}
+
+a{
+    color: aliceblue;
+    width: 4px;
+    font-size: small;
+    text-decoration: none #2D84A5;
+}
+
+#senha1{
+    margin-left: 110px;
+}
+
+label{
+    color: aliceblue;
+    font-size: 20px;
+}
+
+#formularioo{
+    background-color: #2D84A5;
+    width: 290px;
+    border: #2D84A5;
+}
+
+#cancel{
+    background-color: #ff0000;
+    border: #ff0000;
+    width: 280px;
+    color: aliceblue;
+    height: 30px;
+}
+
+#pais{
+    width: 283px;
+    height: 38px;
+    margin-top: 9px;
+}
